@@ -1,1 +1,11 @@
-# college-portal
+Due to lack of proper medium for students and management to interact and there is a chance that students can miss any critical notification from management such as student's fee alert or any announcement regarding events organized in college. This application does all automated work regarding maintaining and disseminating all information, which is extremely useful in colleges. It provides the study materials of all the courses currently pursued by courses. It simultaneously provides a community chat system to all the users who can ask anything at any time individually or in group. The administrator and student are two primary functional requirements in the given system. Proper login with time & role-based secure access is provided to admin, and users.
+
+PROPOSED SYSTEM:
+
+The website will provide a way for parent student and faculty to communicate with each other in terms of marks, attendance of student that the respected parent need to know, online through website which is based on PHP programming. This will solve all drawbacks of manual process, increase the efficiency and speed up all works to be completed. At college managements side a person can view the details of students will than print the details of student. Every student, parent (linked to student Account), faculty will be provided with unique Login Id and password. Also all the data will be at least once validated from the college database. For this purpose the college database are being retrieved directly. So this process also helps in maintaining integrity and consistency.
+
+
+SYSTEM FLOW:
+
+The complete flow of the process is as follows. When Student uses this system for the very first time, while registering, the verification is done through the admin user. Once verification is completed, student can use the system. The validation of the information filled during the registration of account is done using the system and institute database, and only after that, the registration is been completed and the student/parent/faculty account is successfully created.
+The admin (institute authority) controls complete work flow by giving the access permission to the student and the parent, updating institute database, & updating student details and reflecting the changes in the records of the student. As there is module of the Parent which is interlinked by his/her ,Son/daughter account by which the parent can see the progress of the particular student by various information and the permission of the parent account is given by the admin user .
